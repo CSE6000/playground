@@ -8,8 +8,7 @@ Vortex flow imaging has recently attracted much attention owing to a strong corr
 2.1. Problem Statement.
 
 ## 3. Results and Discussion
-Table 1 confirms that the proposed 3D model provides better reconstruction performance in terms of local and global errors of the velocity and vorticity fields.
-
+Thus, the pointwise errors at the local regions may not affect the major features of vortex flows. Furthermore, compared to the previous 2D reconstruction model [11], Table 1 confirms that the proposed 3D model provides better reconstruction performance in terms of local and global errors of the velocity and vorticity fields.
 
 ## 4. Conclusions
 
@@ -18,6 +17,4 @@ Table 1 confirms that the proposed 3D model provides better reconstruction perfo
 ## Acknowledgments
 
 ## References
-
-
 
