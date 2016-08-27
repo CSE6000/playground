@@ -8,6 +8,9 @@ Vortex flow imaging has recently attracted much attention owing to a strong corr
 2.1. Problem Statement.
 
 ## 3. Results and Discussion
+### 3.1. Forward Simulation of Blood Flow in LV
+We perform the forward numerical simulation using the FSI model in COMSOL Multiphysics in order to obtain 3D synthetic flow data inside the moving LV domain.
+
 Table 1 confirms that the proposed 3D model provides better reconstruction performance in terms of local and global errors of the velocity and vorticity fields.
 
 
