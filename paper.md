@@ -10,8 +10,8 @@ Vortex flow imaging has recently attracted much attention owing to a strong corr
 ## 3. Results and Discussion
 Table 1 confirms that the proposed 3D model provides better reconstruction performance in terms of local and global errors of the velocity and vorticity fields.
 
-
 ## 4. Conclusions
+We proposed a mathematical framework involving a reconstruction model for three-dimensional blood flow inside LV.
 
 ## Competing Interests
 
